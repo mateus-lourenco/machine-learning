@@ -1,0 +1,2 @@
+# Exemplos de algoritmos simples de classificação
+projeto criado durante o curso de introdução aos algoritmos de classificação do Alura(https://cursos.alura.com.br/course/introducao-a-machine-learning-com-classificacao)
